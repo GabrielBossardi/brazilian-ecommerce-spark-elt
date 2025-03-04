@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "brazilian_ecommerce", from = "src"}]
+packages = [{include = "data_transformations", from = "src"}]
 
 
 [build-system]
